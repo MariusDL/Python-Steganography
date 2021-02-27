@@ -5,9 +5,9 @@ Python Steganography
 This script allows you to encode or decode text from images
 
 ## Project Features
-Encode text in images
-Encrypt the text with a password before encoding
-Extract encoded text from images
+Encode text in images<br>
+Encrypt the text with a password before encoding<br>
+Extract encoded text from images<br>
 
 ## Prerequisites
 Python3
